@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ubuntu/dev/mini_project/opTest1_isim_beh.exe" -prj "/home/ubuntu/dev/mini_project/opTest1_beh.prj" "work.opTest1" "work.glbl" 
